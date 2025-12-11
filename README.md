@@ -24,3 +24,4 @@ Clustered Column Chart (KPI: 6)
 Table Chart (KPI: 7)
 Donut Chart (KPI: 8)
 
+
